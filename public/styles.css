@@ -1,0 +1,18 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #a00808;
+}
+
+main {
+  margin: 3rem auto;
+  max-width: 30rem;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(54, 41, 41, 0.26);
+  background-color: #00ff00;
+  text-align: center;
+  border-radius: 12px;
+}
